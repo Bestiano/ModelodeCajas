@@ -1,0 +1,10 @@
+body{
+  margin:0;
+  box-sizing: border-box;
+}
+
+img.award{
+  position:absolute;
+  top: 0;
+  right: 0;
+}

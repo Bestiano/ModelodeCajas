@@ -1,0 +1,65 @@
+body{
+  margin: 15px;
+}
+.flag {
+  display: block;
+  box-sizing: border-box;
+  border: 1px solid #000;
+  width: 500px;
+  height: 300px;
+  margin: 25px;
+}
+.espana {
+  position: relative;
+  background: red;
+}
+.amarillo{
+  background: yellow;
+  height: 33.3%;
+  margin-top: 20%;
+}
+.dinamarca {
+  position:relative;
+  background: red;
+}
+.lineablanca1{
+  background: white;
+  height: 10%;
+  margin-top: 25%;
+}
+.lineablanca2{
+  background: white;
+  width: 6%;
+  height: 100%;
+  margin: -31% 20%;
+}
+.circulorojo{
+  background-color: red;
+  border-radius: 100px;
+  width: 140px;
+  height: 140px;
+  margin: 16% auto;
+}
+.verde{
+  background: green;
+  width: 75%;
+  height: 33.3%;
+  float: right;
+}
+.negro{
+  background: black;
+  width: 75%;
+  height: 33.3%;
+  float: right;
+}
+.blanco{
+  background:white;
+  width: 75%;
+  height: 33.3%;
+  float: right;
+}
+.rojo{
+  background: red;
+  width: 25%;
+  height: 100%;
+  }

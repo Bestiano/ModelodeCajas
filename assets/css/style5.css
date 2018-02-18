@@ -1,0 +1,19 @@
+body{
+  margin:0;
+  box-sizing: border-box;
+}
+.box{
+  display: flex;
+  align-content: center;
+}
+div .vr{
+  background-image: url("../images/ribbon_oferta.png");
+  background-repeat: no-repeat;
+  height: 285px;
+  display: block;
+  margin: 0 auto;
+}
+div.vr img{
+  height: 70%;
+  padding: 35px 0px 0 22px;
+}
